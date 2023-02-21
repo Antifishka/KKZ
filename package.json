@@ -36,17 +36,17 @@
     "jest": "^29.4.2",
     "nodemon": "2.0.15"
   },
-  "description": "Виконайте форк цього репозиторію для виконання домашніх завдань (2-6) Форк створить репозиторій на вашому http://github.com",
+  "description": "",
   "main": ".eslintrc.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Antifishka/nodejs-hw-rest-api.git"
+    "url": "git+https://github.com/Antifishka/KKZ"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Antifishka/nodejs-hw-rest-api/issues"
+    "url": "https://github.com/Antifishka/KKZ"
   },
-  "homepage": "https://github.com/Antifishka/nodejs-hw-rest-api#readme"
+  "homepage": "https://github.com/Antifishka/KKZ"
 }
